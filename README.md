@@ -29,11 +29,14 @@ An interactive **3-page Power BI Business Intelligence solution** analyzing **1,
 
 ## 📊 Interactive Dashboard Previews
 
-### Page 1: Executive Sales Overview
+### Page 1: Executive Sales Overview 
+![Dashboard Page 1](Sales_Overview_Page1.png)
 
-### Page 2: Customer & Product Analysis
+### Page 2: Customer & Product Analysis 
+![Dashboard Page 1](Customer_Product_Analysis_Page2.png)
 
 ### Page 3: Profit & Performance
+![Dashboard Page 1](Profit_Performance_Page3.png)
 
 ---
 
@@ -52,17 +55,3 @@ An interactive **3-page Power BI Business Intelligence solution** analyzing **1,
 * Download and open `Sales_Performance_Dashboard.pbix` in **Power BI Desktop** to test interactive slicers.
 
 ---
-
-## 📩 Contact & Connect
-
-Created by **HARISRI Ravi** — connect on [LinkedIn](https://linkedin.com) or explore more projects on my [GitHub Profile](https://www.google.com/search?q=https://github.com/hari-sri24)!
-
----
-
-### 💡 Quick Folder Checklist for your Repo:
-
-Make sure to create a folder named `screenshots/` inside your repository and name your uploaded images exactly like this so they load automatically:
-
-* `screenshots/Sales_Overview_Page1.png`
-* `screenshots/Customer_Product_Analysis_Page2.png`
-* `screenshots/Profit_Performance_Page3.png`
