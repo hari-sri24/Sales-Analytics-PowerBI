@@ -30,13 +30,13 @@ An interactive **3-page Power BI Business Intelligence solution** analyzing **1,
 ## 📊 Interactive Dashboard Previews
 
 ### Page 1: Executive Sales Overview 
-![Dashboard Page 1](Sales_Overview_Page1.png)
+![Dashboard Page 1](Page1_Sales_Overview.png)
 
 ### Page 2: Customer & Product Analysis 
-![Dashboard Page 1](Customer_Product_Analysis_Page2.png)
+![Dashboard Page 2](Page2_Customer_Product.png)
 
 ### Page 3: Profit & Performance
-![Dashboard Page 1](Profit_Performance_Page3.png)
+![Dashboard Page 3](Page3_Profit_Performance.png)
 
 ---
 
