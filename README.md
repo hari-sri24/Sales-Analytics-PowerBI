@@ -1,7 +1,3 @@
-Here is the updated, highly polished **`README.md`** template for your **Sales Performance Dashboard** repo. It incorporates the exact markdown structure with embedded image previews and metric cards to give it an executive, professional look!
-
----
-
 # 📊 Sales Performance & Profit Analytics Dashboard
 
 An interactive **3-page Power BI Business Intelligence solution** analyzing **1,500+ sales transactions** representing **₹130.7M+ in total revenue** and **₹41.36M in total profit**.
@@ -10,33 +6,33 @@ An interactive **3-page Power BI Business Intelligence solution** analyzing **1,
 
 ## 📁 Repository Structure
 
-* `data/Raw_Sales_Dataset.xlsx` — Cleaned raw sales dataset (1,515 order records).
-* `screenshots/Sales_Overview_Page1.png` — Executive Sales & Financial KPI Overview.
-* `screenshots/Customer_Product_Analysis_Page2.png` — Salesperson Leaderboard & Product Analysis.
-* `screenshots/Profit_Performance_Page3.png` — Order Status Funnel & Category Profitability Analysis.
-* `Sales_Performance_Dashboard.pbix` — Interactive Power BI Desktop report file.
+- `data/Raw_Sales_Dataset.xlsx` — Cleaned raw sales dataset (1,515 order records).
+- `screenshots/Page1_Sales_Overview.png` — Executive Sales & Financial KPI Overview.
+- `screenshots/Page2_Customer_Product.png` — Salesperson Leaderboard & Product Analysis.
+- `screenshots/Page3_Profit_Performance.png` — Order Status Funnel & Category Profitability Analysis.
+- `Sales_Performance_Dashboard.pbix` — Interactive Power BI Desktop report file.
 
 ---
 
 ## 📈 Key Summary Metrics
 
-* **Total Revenue Analyzed:** ₹130,715,381.27
-* **Total Profit Generated:** ₹41,357,933.71
-* **Total Order Volume:** 1,500+ Transactions
-* **Average Customer Rating:** 3.61 / 5.00
+- **Total Revenue Analyzed:** ₹130,715,381.27
+- **Total Profit Generated:** ₹41,357,933.71
+- **Total Order Volume:** 1,500+ Transactions
+- **Average Customer Rating:** 3.61 / 5.00
 
 ---
 
 ## 📊 Interactive Dashboard Previews
 
-### Page 1: Executive Sales Overview 
-![Dashboard Page 1](Page1_Sales_Overview.png)
+### Page 1: Executive Sales Overview
+![Executive Sales Overview](screenshots/Page1_Sales_Overview.png)
 
-### Page 2: Customer & Product Analysis 
-![Dashboard Page 2](Page2_Customer_Product.png)
+### Page 2: Customer & Product Analysis
+![Customer & Product Analysis](screenshots/Page2_Customer_Product.png)
 
 ### Page 3: Profit & Performance
-![Dashboard Page 3](Page3_Profit_Performance.png)
+![Profit & Performance Analysis](screenshots/Page3_Profit_Performance.png)
 
 ---
 
@@ -51,7 +47,10 @@ An interactive **3-page Power BI Business Intelligence solution** analyzing **1,
 
 ## 🛠️ How to Review & Run
 
-* Explore the raw dataset in `data/Raw_Sales_Dataset.xlsx`.
-* Download and open `Sales_Performance_Dashboard.pbix` in **Power BI Desktop** to test interactive slicers.
+- Explore the raw dataset in `data/Raw_Sales_Dataset.xlsx`.
+- Download and open `Sales_Performance_Dashboard.pbix` in **Power BI Desktop** to test interactive slicers.
 
 ---
+
+## 📩 Contact & Connect
+Created by **HARI SRI Ravi** — feel free to connect on [LinkedIn](https://www.linkedin.com/in/harisriravi/) or explore more projects on my [GitHub Profile](https://github.com/hari-sri24)!
